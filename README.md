@@ -18,7 +18,7 @@ In order to run the application for playing with computer do the following: <br/
 java -jar battle-ship-client.jar
 ```
 
-In order to run the application for playing with computer do the following: <br/>
+In order to run the application for playing against another player on a different computer do the following: <br/>
 -
 1. Open new terminal navigate to clone directory.
 ```bash
